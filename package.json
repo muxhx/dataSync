@@ -1,6 +1,6 @@
 {
   "name": "datasync-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Keep your data up-to-date between different systems",
   "main": "index.js",
   "scripts": {
