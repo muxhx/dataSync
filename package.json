@@ -1,6 +1,6 @@
 {
   "name": "datasync-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Keep your data up-to-date between different systems",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "homepage": "https://github.com/muxhx/dataSync/tree/main#readme",
   "author": "muxhx",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
   }
 }

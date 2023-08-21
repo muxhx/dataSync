@@ -17,3 +17,7 @@ Use within your application with the following line of JavaScript:
 ```js
 var datasync = require('datasync-test');
 ```
+
+## License
+
+[MIT](LICENSE)
