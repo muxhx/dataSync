@@ -1,12 +1,20 @@
 {
   "name": "datasync-test",
   "version": "0.0.1",
-  "description": "",
+  "description": "Keep your data up-to-date between different systems",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muxhx/dataSync.git"
+  },
+  "keywords": [
+    "dataSync"
+  ],
+  "homepage": "https://github.com/muxhx/dataSync/tree/main#readme",
+  "author": "muxhx",
   "license": "ISC",
   "dependencies": {
   }
